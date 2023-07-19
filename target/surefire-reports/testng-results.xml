@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="12" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T06:54:26Z" name="Suite" finished-at="2023-07-19T06:54:46Z" duration-ms="20452">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T06:54:26Z" name="Test" finished-at="2023-07-19T06:54:46Z" duration-ms="20452">
+      <class name="walletHub_Test.Signup_Test">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:walletHub_Test.Signup_Test@5b367418]" started-at="2023-07-19T06:54:16Z" name="initBrowser" finished-at="2023-07-19T06:54:26Z" duration-ms="10051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:walletHub_Test.Signup_Test@5b367418]" started-at="2023-07-19T06:54:46Z" name="tearDown" finished-at="2023-07-19T06:54:47Z" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- walletHub_Test.Signup_Test -->
+      <class name="walletHub_Test.Submit_Test">
+        <test-method is-config="true" signature="createobject()[pri:0, instance:walletHub_Test.Submit_Test@481ba2cf]" started-at="2023-07-19T06:54:29Z" name="createobject" finished-at="2023-07-19T06:54:29Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createobject -->
+        <test-method signature="clickOnStar5()[pri:3, instance:walletHub_Test.Submit_Test@481ba2cf]" started-at="2023-07-19T06:54:29Z" name="clickOnStar5" finished-at="2023-07-19T06:54:29Z" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnStar5 -->
+        <test-method signature="dropDown()[pri:4, instance:walletHub_Test.Submit_Test@481ba2cf]" started-at="2023-07-19T06:54:29Z" name="dropDown" finished-at="2023-07-19T06:54:30Z" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown -->
+        <test-method signature="review()[pri:5, instance:walletHub_Test.Submit_Test@481ba2cf]" started-at="2023-07-19T06:54:30Z" name="review" finished-at="2023-07-19T06:54:30Z" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- review -->
+      </class> <!-- walletHub_Test.Submit_Test -->
+      <class name="walletHub_Test.Login_Test">
+        <test-method is-config="true" signature="createobject()[pri:0, instance:walletHub_Test.Login_Test@46b61c56]" started-at="2023-07-19T06:54:30Z" name="createobject" finished-at="2023-07-19T06:54:30Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createobject -->
+        <test-method signature="login()[pri:6, instance:walletHub_Test.Login_Test@46b61c56]" started-at="2023-07-19T06:54:30Z" name="login" finished-at="2023-07-19T06:54:46Z" duration-ms="16050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- walletHub_Test.Login_Test -->
+      <class name="walletHub_Test.TestInsurance_Test">
+        <test-method is-config="true" signature="createobject()[pri:0, instance:walletHub_Test.TestInsurance_Test@36060e]" started-at="2023-07-19T06:54:26Z" name="createobject" finished-at="2023-07-19T06:54:26Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createobject -->
+        <test-method signature="clickOnStar()[pri:2, instance:walletHub_Test.TestInsurance_Test@36060e]" started-at="2023-07-19T06:54:26Z" name="clickOnStar" finished-at="2023-07-19T06:54:29Z" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnStar -->
+      </class> <!-- walletHub_Test.TestInsurance_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
